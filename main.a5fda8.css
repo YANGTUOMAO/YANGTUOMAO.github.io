@@ -183,8 +183,8 @@ body {
 	font-size: 14px;
 	font-family: Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;
 	line-height: 1.5;
-	color: #333;
-	background-color: #fff;
+	color: rgb(236, 6, 6);
+	background-color: rgb(39, 226, 14);
 	/* background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url('https://c-ssl.duitang.com/uploads/item/201709/16/20170916133542_8vinr.jpeg') no-repeat 0% 0%/ cover; */
 	}
 	
