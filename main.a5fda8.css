@@ -185,8 +185,7 @@ body {
 	line-height: 1.5;
 	color: #333;
 	/* background-color: #fff; */
-	 background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
-	    url('https://c-ssl.duitang.com/uploads/item/201709/16/20170916133542_8vinr.jpeg') no-repeat 0% 0%/ cover;
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url('https://c-ssl.duitang.com/uploads/item/201709/16/20170916133542_8vinr.jpeg') no-repeat 0% 0%/ cover;
 	}
 	
 	min-height: 100%
