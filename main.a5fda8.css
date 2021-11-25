@@ -776,7 +776,9 @@ html {
 
 .left-col {
 	/* background: #fff; */
-	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(./img/381535373.jpeg) no-repeat 0% 20%/ cover;S
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+	    url(./img/381535373.jpeg) no-repeat 0% 20%/ cover;
+	
 	width: 300px;
 	position: fixed;
 	opacity: 1;
