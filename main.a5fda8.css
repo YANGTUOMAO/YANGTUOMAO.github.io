@@ -183,9 +183,9 @@ body {
 	font-size: 14px;
 	font-family: Helvetica Neue, Helvetica, STHeiTi, Arial, sans-serif;
 	line-height: 1.5;
-	color: rgb(236, 6, 6);
+	color: rgb(172, 163, 163);
 	background-color: rgb(39, 226, 14);
-	/* background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url('https://c-ssl.duitang.com/uploads/item/201709/16/20170916133542_8vinr.jpeg') no-repeat 0% 0%/ cover; */
+	/* background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url('https://c-ssl.duitang.com/uploads/item/201709/16/20170916133542_8vinr.jpeg') no-repeat 0% 20%/ cover; */
 	}
 	
 	min-height: 100%
@@ -722,7 +722,8 @@ textarea {
 }
 
 body {
-	background: #eaeaea
+	/* background: #9d54b9 */
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url('https://c-ssl.duitang.com/uploads/item/201709/16/20170916133542_8vinr.jpeg') no-repeat 0% 20%/ cover;
 }
 
 #container,
@@ -2109,7 +2110,7 @@ pre .id {
     border: 1px solid #ddd;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
-    background: rgba(255,255,255,.5);
+    background: rgba(51, 120, 160, 0.5);
     transition: all .2s ease-in
 }
 
